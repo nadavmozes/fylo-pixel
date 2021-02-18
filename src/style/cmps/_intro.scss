@@ -1,0 +1,23 @@
+.intro {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 740px;
+    margin: 0 auto;
+}
+.intro-text {
+    font-weight: 700;
+    padding: 35px 0 35px 0;
+    font-size: 35px;
+}
+
+.into-info {
+    width: 50%;
+    font-weight: 400;
+}
+
+.intro-img {
+    height: auto;
+    width: 100%;
+}

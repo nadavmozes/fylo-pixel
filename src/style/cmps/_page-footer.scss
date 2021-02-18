@@ -1,0 +1,23 @@
+.footer {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 100px 50px 100px 50px;
+    flex-grow: 1;
+    background: hsl(216, 53%, 9%);
+}
+
+.footer-about {
+    display: flex;
+    flex-direction: column;
+    flex-grow: 2;
+}
+
+ul {
+    list-style: none;
+}
+
+ul > li {
+    padding-top: 20px;
+    cursor: pointer;
+}
